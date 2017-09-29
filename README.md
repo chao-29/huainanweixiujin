@@ -1,1 +1,2 @@
 # huainanweixiujin
+![logo]./logo.png
