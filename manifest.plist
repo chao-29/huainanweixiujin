@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dadad</string>
+					<string>http://192.168.1.100:8080/hfmphnhuainanweb/web/app/WeiXiuJin.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://dadad</string>
+					<string>http://192.168.1.100:8080/hfmphnhuainanweb/web/app/54.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://dadad</string>
+					<string>http://192.168.1.100:8080/hfmphnhuainanweb/web/app/514.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
