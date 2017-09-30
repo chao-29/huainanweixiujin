@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.253.39:8080/hfmphnhuainanweb/app/WeiXiuJin.ipa</string>
+					<string>http://192.168.253.39:8080/hfmphnhuainanweb/web/app/WeiXiuJin.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
